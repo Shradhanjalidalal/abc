@@ -15,7 +15,7 @@ class demo2
 			for(int k=0;k<i;k++)
 			{
 				System.out.print(count);
-				count--;
+				
 			}
 			
 			System.out.println();
